@@ -62,11 +62,6 @@ graph TD
     J --> K[WAV Audio Output]
 ```
 
-## Demo
-
-![Music Composer Demo](demo.gif)
-_Example of the Music Composer interface with generated audio playback_
-
 ## Prerequisites
 
 - Python 3.11+
