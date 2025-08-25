@@ -1,0 +1,7 @@
+setup.py
+MUSIC_COMPOSER.egg-info/PKG-INFO
+MUSIC_COMPOSER.egg-info/SOURCES.txt
+MUSIC_COMPOSER.egg-info/dependency_links.txt
+MUSIC_COMPOSER.egg-info/requires.txt
+MUSIC_COMPOSER.egg-info/top_level.txt
+app/__init__.py
